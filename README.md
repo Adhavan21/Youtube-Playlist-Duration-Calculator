@@ -52,8 +52,8 @@ A Chrome Extension that lets you select videos from any YouTube playlist and ins
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Adhavan21/youtube-playlist-duration-calculator.git
-cd youtube-playlist-duration-selector
+git clone https://github.com/Adhavan21/Youtube-Playlist-Duration-Calculator.git
+cd Youtube-Playlist-Duration-Calculator
 ```
 
 2. **Load the extension in Chrome:**
